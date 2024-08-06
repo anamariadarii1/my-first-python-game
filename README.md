@@ -14,10 +14,8 @@ The game incorporates several algorithms and techniques to enhance gameplay:
 Here are some screenshots of the game in action:
 
 #### Game Start
-![Game Start](screenshot1.png)
-![screenshot](https://github.com/user-attachments/assets/fc338e04-201e-4e8a-b8ee-c651f7279e42)
+![Game Start](https://github.com/user-attachments/assets/fc338e04-201e-4e8a-b8ee-c651f7279e42)
 
 #### In-Game
-![In-Game](screenshot2.png)
-![screenshot1](https://github.com/user-attachments/assets/960ab9ef-9b2a-4c33-a3a3-c8af8000e072)
+![In-Game](https://github.com/user-attachments/assets/960ab9ef-9b2a-4c33-a3a3-c8af8000e072)
 
