@@ -1,14 +1,23 @@
-# Jetpack Pug Platformer
+# Jetpack Pug Platformer  
 
-## Project Description
-Jetpack Pug Platformer is an engaging platformer game developed using Pygame. In this game, the player controls a pug equipped with a jetpack to navigate through various platforms, collect coins, and avoid obstacles. The game aims to achieve the highest score by collecting as many coins as possible while maintaining balance and avoiding falling.
+A 2D platformer game built with **Pygame**, where you control a pug with a jetpack to jump across platforms, collect coins, and avoid obstacles.  
+The goal is to survive as long as possible and achieve the highest score.  
 
-### Algorithms Used
-The game incorporates several algorithms and techniques to enhance gameplay:
+---
 
-1. **Physics Engine**: The game uses basic physics principles to simulate gravity, acceleration, and friction. This is achieved using Pygame's `Vector2` class to handle the pug's movement.
-2. **Collision Detection**: The game detects collisions between the pug and platforms using Pygame's `spritecollide` function to ensure smooth landing and jumping mechanics.
-3. **Platform Generation**: Platforms are generated randomly to create an unpredictable and challenging environment for the player.
+## Features  
+- Gravity and physics-based movement using `Vector2`  
+- Collision detection for platforms and obstacles  
+- Random platform generation for replayability  
+- Score system based on coin collection  
+
+---
+
+## Tech Stack  
+- **Python 3**  
+- **Pygame** (for rendering, physics, and collision handling)  
+
+---
 
 ### Screenshots
 Here are some screenshots of the game in action:
@@ -19,3 +28,12 @@ Here are some screenshots of the game in action:
 #### In-Game
 ![In-Game](https://github.com/user-attachments/assets/960ab9ef-9b2a-4c33-a3a3-c8af8000e072)
 
+---
+
+## How to Run  
+Clone the repository and run the game:  
+
+```bash
+git clone https://github.com/anamariadarii1/my-first-python-game.git
+cd my-first-python-game
+python main.py
